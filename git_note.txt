@@ -8,3 +8,4 @@ git push
 2 git checkout (to switch between branches)
 2.git checkout -b feature_readme  (creates and switches to new branch)
 3. git push
+git branch -d feature (delete branch)
